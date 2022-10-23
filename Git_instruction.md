@@ -1,6 +1,6 @@
 ## Введение в контроль версий. Домашнее задание "Инструкция по работе с Git"
 
-Устанавливаем программы Git https://git-scm.com/download/win и Visual Studio Code https://code.visualstudio.com/docs/?dv=win
+Устанавливаем программы [Git](https://git-scm.com/download/win) и [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 
 Создаем некую папку в любом месте вашего компьютера и назовем её например, **Git_Test**
 
